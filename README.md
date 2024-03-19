@@ -16,7 +16,7 @@ git clone https://github.com/tucommenceapousser/hashidcrack.git
 
 ## Utilisation
 - Lancez le script `md5.py` et suivez les instructions pour craquer un hash MD5.
-- Utilisez l'option  file pour indiquer le fichier texte contenant les hash a cracker , l'option hash unique en indiquant yn seul gash ou hash multiple en indiquant plusieurs hash separes par des virgules .
+- Utilisez l'option  file pour indiquer le fichier texte contenant les hash a cracker, l'option hash unique en indiquant un seul hash ou hash multiple en indiquant plusieurs hash separes par des virgules .
 
 ## Exemple
 ```bash
