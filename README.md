@@ -34,7 +34,7 @@ Vous pouvez également essayer `hashidcrack` en ligne via Repl.it.
 
 ## Clone on replit
 
-[![Clone on Repl.it](https://repl.it/badge/github/rainbowhatrkn/hashidcrack)](https://replit.com/github/rainbowhatrkn/hashidcrack)
+[![Clone on Repl.it](https://repl.it/badge/github/tucommenceapousser/hashidcrack)](https://replit.com/github/tucommenceapousser/hashidcrack)
 
 </details>
 
