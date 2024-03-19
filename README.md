@@ -11,7 +11,7 @@ Ce programme Python permet de craquer des hash MD5 en utilisant des techniques d
 Vous pouvez installer `hashidcrack` en clonant ce dépôt :
 
 ```bash
-git clone https://github.com/rainbowhatrkn/hashidcrack.git
+git clone https://github.com/tucommenceapousser/hashidcrack.git
 ```
 
 ## Utilisation
@@ -30,7 +30,7 @@ Vous pouvez également essayer `hashidcrack` en ligne via Repl.it.
 
 ## Run on replit
 
-[![Run on Repl.it](https://repl.it/badge/github/rainbowhatrkn/hashidcrack)](http://replit.com/@trkn/hashidcrack)
+[![Run on Repl.it](https://repl.it/badge/github/rucommenceapousser/hashidcrack)](http://replit.com/@trkn/hashidcrack)
 
 ## Clone on replit
 
