@@ -1,4 +1,5 @@
-# hashidcrack by :smiling_imp: TRHACKNON :space_invader:
+# hashidcrack by 
+# :smiling_imp: TRHACKNON :space_invader:
 
 ## Introduction
 Ce programme Python permet de craquer des hash MD5 en utilisant des techniques de dictionnaire.
