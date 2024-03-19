@@ -28,7 +28,12 @@ python md5.py -f
 
 Vous pouvez également essayer `hashidcrack` en ligne via Repl.it.
 
+## Run on replit
+
 [![Run on Repl.it](https://repl.it/badge/github/rainbowhatrkn/hashidcrack)](http://replit.com/@trkn/hashidcrack)
+
+## Clone on replit
+
 [![Clone on Repl.it](https://repl.it/badge/github/rainbowhatrkn/hashidcrack)](https://replit.com/github/rainbowhatrkn/hashidcrack)
 
 </details>
