@@ -17,6 +17,7 @@ numba = "^0.59.0"
 scipy = "^1.12.0"
 flask = "^3.0.2"
 questionary = "^2.0.1"
+setuptools = "^69.2.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
