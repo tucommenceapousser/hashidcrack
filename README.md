@@ -1,5 +1,5 @@
-# hashidcrack by 
-# :smiling_imp: TRHACKNON :space_invader:
+# :smiling_imp: md5hashcrack by :space_invader:
+#  :octocat: TRHACKNON :shipit:
 ![(sc.jpg)(sc.jpg)](sc.jpg)
 ## Introduction
 Ce programme Python permet de craquer des hash MD5 en utilisant des techniques de dictionnaire.
@@ -24,7 +24,7 @@ python md5.py
 ```
 
 <details>
-<summary>Repl.it</summary>
+<summary>Repl.it  :point_down:</summary>
 
 Vous pouvez également essayer `hashidcrack` en ligne via Repl.it.
 
